@@ -14,7 +14,7 @@
   },
   "content_scripts" : [
     {
-      "matches": ["*://*.whatsapp.com*"],
+      "matches": ["*://*.desk.blip.ai/*"],
       "css": ["/css/root.css"],
       "js": ["/static/js/content.js"]
     }
